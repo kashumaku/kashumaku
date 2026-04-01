@@ -1,18 +1,26 @@
-# 🚀 Bhupaz – Full Stack Mobile Developer
+# Full Stack Mobile Developer
 
-Building scalable, high-performance mobile applications with modern technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-Expert-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-Router-black?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/TypeScript-Strict-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/GraphQL-Apollo-pink?style=for-the-badge&logo=graphql" />
+  <img src="https://img.shields.io/badge/Zustand-State-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MST-Architecture-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **React Native & Full Stack Developer** focused on building **production-grade mobile applications** with strong architecture, performance, and scalability in mind.
+I build **scalable, production-grade mobile applications** and backend systems with a strong focus on:
 
-* 📱 Specialized in **React Native (Expo + CLI)**
-* ⚙️ Backend experience with **Node.js, GraphQL, REST APIs**
-* 🔄 Real-time systems using **subscriptions & sockets**
-* 💳 Payment integrations (e.g., mobile payments like Telebirr)
-* 🔐 Strong foundation in **security & cryptography**
+* ⚡ Performance
+* 🧠 Clean architecture
+* 📱 Smooth user experience
+* 🔌 Native integrations
+
+💡 I don’t just build apps — I design systems that scale.
 
 ---
 
@@ -20,159 +28,94 @@ I am a **React Native & Full Stack Developer** focused on building **production-
 
 ### 📱 Mobile Development
 
-* React Native (CLI & Expo)
-* Expo Router (file-based navigation)
+* React Native (Expo + CLI)
+* Expo Router
 * TypeScript
 * Reanimated
 * Native Modules (Android - Kotlin, iOS - Swift)
-
-### 🗄️ State Management & Data
-
-* MobX State Tree (MST)
-* Zustand (lightweight state management)
-* TanStack Query (React Query)
-* Context API
+* Push Notifications (Expo Notifications / Firebase)
 
 ---
 
-## ⚡ State Management Strategy
+### 🗄️ State Management
 
-I use a **hybrid approach** for optimal performance and scalability:
-
-* 🧠 **Zustand** → lightweight UI/global state (modals, selections, UI flags)
-* 🧩 **MobX State Tree (MST)** → complex domain/business logic
-* 🌐 **TanStack Query** → server state, caching, and async data
-
-> This separation ensures clean architecture and prevents unnecessary re-renders.
+* Zustand (UI state)
+* MobX State Tree (business/domain logic)
+* TanStack Query (server state & caching)
 
 ---
 
-## 🌐 Backend
+### 🌐 Backend Development
 
 * Node.js
 * GraphQL (Apollo Server)
 * REST APIs
+* Prisma ORM
+* TypeORM
 * Sequelize ORM
 * MySQL
 
 ---
 
-## ⚡ Real-Time & Advanced Features
+### ⚡ Advanced Features
 
-* GraphQL Subscriptions
-* WebSockets
-* Background tasks
-* Location tracking (Google Maps)
-
----
-
-## 🧰 Tools & Others
-
-* Git & GitHub
-* Linux (Mint)
-* Postman / Insomnia
-* ESLint & Prettier
+* Real-time apps (GraphQL Subscriptions, WebSockets)
+* Bluetooth (ESC/POS printers)
+* NFC payments
+* Background location tracking
+* Secure payment integrations
 
 ---
 
-## 🏗️ Architecture Approach
+## 🧩 Architecture (My Approach)
 
-I follow **scalable and maintainable architecture patterns**:
+```mermaid
+flowchart TD
 
-* Feature-based folder structure
-* Separation of concerns (UI / State / API)
-* Reusable components & hooks
-* Type-safe APIs
-* Optimized rendering & performance tuning
+UI[React Native UI]
+
+Zustand[Zustand<br/>UI State]
+MST[MobX State Tree<br/>Business Logic]
+Query[TanStack Query<br/>Server State]
+
+API[Backend API]
+
+UI --> Zustand
+UI --> MST
+UI --> Query
+
+Query --> API
+MST --> API
+```
+---
+
+## ⚡ Performance Mindset
+
+* Minimize unnecessary re-renders
+* Separate UI, server, and domain state
+* Optimize navigation & animations
+* Efficient API & caching strategies
 
 ---
 
-## 📦 Featured Projects
+## 📊 GitHub Stats
 
-### 🚍 Transport Super App
-
-A multi-service platform supporting:
-
-* Luxury Bus Booking
-* City Taxi System
-* Terminal Management
-
-**Features:**
-
-* Multi-role system (Admin, Agent, Driver)
-* Seat booking & management
-* Real-time updates
-* Ticket check-in system
-* Payment integration
-
----
-
-### 💬 Real-Time Chat Application
-
-* Built with GraphQL Subscriptions
-* Supports live messaging, typing indicators
-* Scalable backend architecture
-
----
-
-### 🌍 Location Tracking System
-
-* Real-time multi-user tracking
-* Background location updates
-* Google Maps integration
-
----
-
-### 📱 Social Media Platform
-
-* Posts (image/video)
-* Likes, comments, replies
-* Real-time updates
-* Optimized API & database design
-
----
-
-## 🔐 Security & Research Experience
-
-* Deep understanding of:
-
-  * Symmetric & Asymmetric Encryption
-  * Digital Signatures
-  * Secure Communication Protocols (TLS)
-* Implemented:
-
-  * Data encryption systems in C
-  * Secure communication mechanisms
-
----
-
-## ⚡ Performance Optimization Focus
-
-* Minimizing unnecessary re-renders
-* Efficient state separation (UI vs Server vs Domain)
-* Lazy loading & code splitting
-* Optimized navigation (Expo Router)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="150" />
+</p>
 
 ---
 
 ## 📈 Current Focus
 
-* Building **large-scale production apps**
-* Advanced **React Native performance tuning**
-* Clean architecture & reusable systems
-* Native integrations (Bluetooth, NFC, Printers)
-
----
-
-## 🤝 Let’s Connect
-
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* 🏗 Large-scale application architecture
+* ⚡ React Native performance optimization
+* 🔌 Native integrations
+* 📡 Real-time systems
 
 ---
 
 ## ⭐ Philosophy
 
-> "Build like it's going to scale tomorrow."
-
----
+> "Build systems, not just features."
