@@ -67,28 +67,6 @@ I build **scalable, production-grade mobile applications** and backend systems w
 
 ---
 
-## 🧩 Architecture (My Approach)
-
-```mermaid
-flowchart TD
-
-UI[React Native UI]
-
-Zustand[Zustand<br/>UI State]
-MST[MobX State Tree<br/>Business Logic]
-Query[TanStack Query<br/>Server State]
-
-API[Backend API]
-
-UI --> Zustand
-UI --> MST
-UI --> Query
-
-Query --> API
-MST --> API
-```
----
-
 ## ⚡ Performance Mindset
 
 * Minimize unnecessary re-renders
