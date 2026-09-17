@@ -1,99 +1,89 @@
 # Full Stack Mobile Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-Expert-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Expo-Router-black?style=for-the-badge&logo=expo" />
-  <img src="https://img.shields.io/badge/TypeScript-Strict-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/GraphQL-Apollo-pink?style=for-the-badge&logo=graphql" />
-  <img src="https://img.shields.io/badge/Zustand-State-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MST-Architecture-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-222222?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build **scalable, production-grade mobile applications** and backend systems with a strong focus on:
+I'm a Full Stack Mobile Developer specializing in **React Native, React, Next.js, and TypeScript**.
 
-* ⚡ Performance
-* 🧠 Clean architecture
-* 📱 Smooth user experience
-* 🔌 Native integrations
+I build scalable mobile applications, modern web experiences, and robust backend systems with a focus on clean architecture, performance, and seamless user experiences.
 
-💡 I don’t just build apps — I design systems that scale.
-
----
-
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
 ### 📱 Mobile Development
 
-* React Native (Expo + CLI)
+* React Native (Expo & CLI)
 * Expo Router
 * TypeScript
 * Reanimated
-* Native Modules (Android - Kotlin, iOS - Swift)
-* Push Notifications (Expo Notifications / Firebase)
+* Native Modules (Kotlin & Swift)
+* Push Notifications
 
----
+### 🌐 Web Development
 
-### 🗄️ State Management
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
 
-* Zustand (UI state)
-* MobX State Tree (business/domain logic)
-* TanStack Query (server state & caching)
+### 🧠 State Management & Data
 
----
+* Zustand
+* Redux Toolkit
+* MobX State Tree
+* TanStack Query
 
-### 🌐 Backend Development
+### ⚙️ Backend Development
 
 * Node.js
-* GraphQL (Apollo Server)
+* Express.js
+* GraphQL & Apollo Server
 * REST APIs
 * Prisma ORM
-* TypeORM
-* Sequelize ORM
-* MySQL
+* MySQL & PostgreSQL
 
----
+### 🔌 Native Integrations
 
-### ⚡ Advanced Features
+* Kotlin & Swift
+* Bluetooth & ESC/POS Printers
+* NFC
+* Secure Payment Integrations
+* Real-time Communication (WebSockets)
 
-* Real-time apps (GraphQL Subscriptions, WebSockets)
-* Bluetooth (ESC/POS printers)
-* NFC payments
-* Background location tracking
-* Secure payment integrations
+## ⚡ Engineering Focus
 
----
+* Scalable application architecture
+* Offline-first mobile applications
+* Performance optimization
+* Efficient state and data management
+* Secure native integrations
+* Smooth, responsive user experiences
 
-## ⚡ Performance Mindset
+## 🚀 Current Focus
 
-* Minimize unnecessary re-renders
-* Separate UI, server, and domain state
-* Optimize navigation & animations
-* Efficient API & caching strategies
-
----
+* Large-scale application architecture
+* Advanced React Native development
+* Modern web application development
+* Native integrations and real-time systems
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashumaku&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashumaku&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashumaku&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashumaku&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 📈 Current Focus
-
-* 🏗 Large-scale application architecture
-* ⚡ React Native performance optimization
-* 🔌 Native integrations
-* 📡 Real-time systems
-
----
-
-## ⭐ Philosophy
-
-> "Build systems, not just features."
+<p align="center">
+  <i>Build systems, not just features.</i>
+</p>
